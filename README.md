@@ -1,6 +1,6 @@
 # Codewars
 
-1.My head is at the wrong end!
+#1.My head is at the wrong end!
 
 You're at the zoo... all the meerkats look weird. Something has gone terribly wrong - someone has gone and switched their heads and tails around!
 
@@ -10,7 +10,7 @@ Same goes for all the other arrays/lists that you will get in the tests: you hav
 
 Simples!
 
-2.To square(root) or not to square(root)
+#2.To square(root) or not to square(root)
 
 Write a method, that will get an integer array as parameter and will process every number from this array.
 
